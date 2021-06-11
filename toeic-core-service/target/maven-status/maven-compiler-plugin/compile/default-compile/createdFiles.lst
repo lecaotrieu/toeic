@@ -1,0 +1,8 @@
+vn\webtienganh\core\service\ExerciseService.class
+vn\webtienganh\core\service\UserService.class
+vn\webtienganh\core\service\CommentService.class
+vn\webtienganh\core\service\ExaminationQuestionService.class
+vn\webtienganh\core\service\ExaminationService.class
+vn\webtienganh\core\service\ExerciseQuestionService.class
+vn\webtienganh\core\service\ListenGuidelineService.class
+vn\webtienganh\core\service\RoleService.class

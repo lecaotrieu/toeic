@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.762 sec <<< FAILURE!
+checkApiFindByproperty(vn.webtienganh.core.ListenGuideLineTest)  Time elapsed: 1.492 sec  <<< FAILURE!
+java.lang.ExceptionInInitializerError
+	at vn.webtienganh.core.common.utils.HibernateUtils.buildSessionFactory(HibernateUtils.java:16)
+	at vn.webtienganh.core.common.utils.HibernateUtils.<clinit>(HibernateUtils.java:8)
+	at vn.webtienganh.core.data.daoimpl.AbstractDao.findByProperty(AbstractDao.java:108)
+	at vn.webtienganh.core.ListenGuideLineTest.checkApiFindByproperty(ListenGuideLineTest.java:29)
+Caused by: org.hibernate.AnnotationException: Use of @OneToMany or @ManyToMany targeting an unmapped class: vn.webtienganh.core.persistence.entity.UserEntity.resultEntityList[vn.webtienganh.core.persistence.entity.ResultEntity]
+	at org.hibernate.cfg.annotations.CollectionBinder.bindManyToManySecondPass(CollectionBinder.java:1134)
+	at org.hibernate.cfg.annotations.CollectionBinder.bindStarToManySecondPass(CollectionBinder.java:793)
+	at org.hibernate.cfg.annotations.CollectionBinder$1.secondPass(CollectionBinder.java:728)
+	at org.hibernate.cfg.CollectionSecondPass.doSecondPass(CollectionSecondPass.java:70)
+	at org.hibernate.cfg.Configuration.originalSecondPassCompile(Configuration.java:1695)
+	at org.hibernate.cfg.Configuration.secondPassCompile(Configuration.java:1424)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1844)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1928)
+	at vn.webtienganh.core.common.utils.HibernateUtils.buildSessionFactory(HibernateUtils.java:13)
+	... 37 more
+

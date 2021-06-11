@@ -1,0 +1,6 @@
+vn\webtienganh\core\web\common\WebConstant.class
+vn\webtienganh\core\web\command\AbstractCommand.class
+vn\webtienganh\core\web\utils\WebCommonUtil.class
+vn\webtienganh\core\web\utils\FormUtil.class
+vn\webtienganh\core\web\utils\RequestUtil.class
+vn\webtienganh\core\web\utils\SingletonServiceUtil.class

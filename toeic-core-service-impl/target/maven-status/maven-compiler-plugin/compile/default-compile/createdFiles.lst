@@ -1,0 +1,9 @@
+vn\webtienganh\core\service\impl\ExaminationServiceImpl.class
+vn\webtienganh\core\service\impl\RoleServiceImpl.class
+vn\webtienganh\core\service\utils\SingletonDaoUtil.class
+vn\webtienganh\core\service\impl\CommentServiceImpl.class
+vn\webtienganh\core\service\impl\ListenGuidelineServiceImpl.class
+vn\webtienganh\core\service\impl\ExaminationQuestionServiceImpl.class
+vn\webtienganh\core\service\impl\UserServiceImpl.class
+vn\webtienganh\core\service\impl\ExerciseServiceImpl.class
+vn\webtienganh\core\service\impl\ExerciseQuestionServiceImpl.class

@@ -1,0 +1,8 @@
+vn\webtienganh\core\dao\ExerciseQuestionDao.class
+vn\webtienganh\core\dao\RoleDao.class
+vn\webtienganh\core\dao\ExaminationDao.class
+vn\webtienganh\core\dao\UserDao.class
+vn\webtienganh\core\dao\CommentDao.class
+vn\webtienganh\core\dao\ExaminationQuestionDao.class
+vn\webtienganh\core\dao\ExerciseDao.class
+vn\webtienganh\core\dao\ListenGuidelineDao.class

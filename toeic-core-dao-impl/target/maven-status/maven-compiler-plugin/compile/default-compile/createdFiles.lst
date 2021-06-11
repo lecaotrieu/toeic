@@ -1,0 +1,8 @@
+vn\webtienganh\core\daoimpl\CommentDaoImpl.class
+vn\webtienganh\core\daoimpl\ExaminationDaoImpl.class
+vn\webtienganh\core\daoimpl\UserDaoImpl.class
+vn\webtienganh\core\daoimpl\ExaminationQuestionDaoImpl.class
+vn\webtienganh\core\daoimpl\RoleDaoImpl.class
+vn\webtienganh\core\daoimpl\ExerciseDaoImpl.class
+vn\webtienganh\core\daoimpl\ExerciseQuestionDaoImpl.class
+vn\webtienganh\core\daoimpl\ListenGuidelineDaoImpl.class

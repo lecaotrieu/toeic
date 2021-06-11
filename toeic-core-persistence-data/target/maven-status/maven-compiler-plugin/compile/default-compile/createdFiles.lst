@@ -1,0 +1,10 @@
+vn\webtienganh\core\persistence\entity\CommentEntity.class
+vn\webtienganh\core\persistence\entity\ExaminationQuestionEntity.class
+vn\webtienganh\core\persistence\entity\ExerciseEntity.class
+vn\webtienganh\core\persistence\entity\RoleEntity.class
+vn\webtienganh\core\persistence\entity\ExerciseQuestionEntity.class
+vn\webtienganh\core\persistence\entity\ResultEntity.class
+vn\webtienganh\core\persistence\entity\ExerciseTypeEntity.class
+vn\webtienganh\core\persistence\entity\UserEntity.class
+vn\webtienganh\core\persistence\entity\ListenGuideLineEntity.class
+vn\webtienganh\core\persistence\entity\ExaminationEntity.class
